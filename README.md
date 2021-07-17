@@ -1,6 +1,5 @@
 # quizapp-javascript-by-eksa
 Dilarang mengambil code seenaknya...
-Bikin pusing pusing,cuman diambil gitu aja...
-Nggak mikir apa?
+
 
 Author:Muhammad eksa arifa
